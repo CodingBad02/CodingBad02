@@ -18,11 +18,15 @@
 
 ### Connect with me:
 
-![<img align="left" alt="manjunathan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://manjunathan.me)
-![<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/manjunathan-r-06396b1b7/)
-![<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mannjjuuuu/?hl=en)
-
 <a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057" height="30" width="40" /></a>
+<br />
+
+<a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
+
+<a href="https://manjunathan.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+
 <br />
 
 ### Languages and Tools:
