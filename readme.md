@@ -1,4 +1,4 @@
-### Hi there! I'm Manjunathan - Third year Undergraduate Engineeer [Manjunathan][website] 👋
+### Hi there! I'm Manjunathan - Third year Undergraduate Engineeer, [My Wesbsite!][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manjunathan.me)
 
@@ -11,9 +11,8 @@
 - 🥅 2021 Goals: Involve myself in more projects for the community, try to publish some papers too!
 - ⚡ I also love Fitness and music!
 
-### Spotify Playing 🎧
+### Vibe w Me! 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Manjunathan Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 [![Spotify](https://novatorem-codingbad02.vercel.app/api/spotify)](https://open.spotify.com/user/31h52v5cyy2ej5ave6qf4rqncb3a)
 
@@ -28,25 +27,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python dev" width="26px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />]
+<img align="left" alt="Python dev" width="26px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />]
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />]
+<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 
-[<img align="left" alt="MULTISIM" width="26px" height="26px" src="https://w7.pngwing.com/pngs/65/944/png-transparent-ni-multisim-electronics-ni-ultiboard-electronic-circuit-computer-software-electronic-instrument-purple-angle-rectangle.png" />]
+<img align="left" alt="MULTISIM" width="26px" height="26px" src="https://w7.pngwing.com/pngs/65/944/png-transparent-ni-multisim-electronics-ni-ultiboard-electronic-circuit-computer-software-electronic-instrument-purple-angle-rectangle.png" />
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 <br />
@@ -69,11 +68,17 @@
 
 
 <!-- PROJECT-LIST:END -->
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingbad02&show_icons=true&locale=en&layout=compact" alt="codingbad02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingbad02&show_icons=true&locale=en" alt="codingbad02" /></p>
+<br />
+<br />
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingbad02&show_icons=true&locale=en" alt="codingbad02" /></p>
+<br />
+<br />
 [website]: https://manjunathan.me
 [course]: https://www.udemy.com/certificate/UC-b6fe2152-6257-4fc0-9a9f-aa07de5ab76c/
 [instagram]: https://www.instagram.com/mannjjuuuu/?hl=en
