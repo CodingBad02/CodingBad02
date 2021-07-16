@@ -1,6 +1,6 @@
 ### Hi there! I'm Manjunathan - Third year Undergraduate Engineeer, [My Wesbsite!][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manjunathan.me)
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmanjunathan.me)](https://manjunathan.me)
 
 
 ## I am a Student, Machine learning enthusiast, Explorer, and Ready to learn and collaborate!!
@@ -18,41 +18,41 @@
 
 ### Connect with me:
 
-<a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057" height="30" width="40" /></a>
 <br />
 
-<a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
 
-<a href="https://manjunathan.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+<a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Python dev" width="26px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
+<img align="left" alt="Python dev" width="50px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
-<img align="left" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+<img align="left" alt="MATLAB" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 
-<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Tensorflow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
-<img align="left" alt="OpenCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
+<img align="left" alt="OpenCV" width="50px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 
-<img align="left" alt="SciKit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="SciKit Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 <br />
