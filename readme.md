@@ -19,7 +19,6 @@
 ### Connect with me:
 
 <a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057" height="30" width="40" /></a>
-<br />
 
 <a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
 
