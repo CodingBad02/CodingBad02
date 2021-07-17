@@ -16,17 +16,7 @@
 
 [![Spotify](https://novatorem-codingbad02.vercel.app/api/spotify)](https://open.spotify.com/user/31h52v5cyy2ej5ave6qf4rqncb3a)
 
-### Connect with me:
 
-<a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
-
-<a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
-
-<br />
 
 ### Languages and Tools:
 
@@ -53,6 +43,8 @@
 
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057"  width="50px" /></a>
+
 
 <br />
 <br />
@@ -62,27 +54,42 @@
 ### 📕 Personal and Ongoing Projects:
 
 <!-- PROJECT-LIST:START -->
-- Traffic flow and sign recognition modeling using Graph Cellular Automata theory
+- 🚗Traffic flow and sign recognition modeling using Graph Cellular Automata theory
 
-- Working on modeling Pandemic intensity using pre-pandemic data, using GCNs and Semi-Supervised learning
+- 🦠Working on modeling Pandemic intensity using pre-pandemic data, using GCNs and Semi-Supervised learning
 
-- Working on Ship detection and localization in SAR images using YOLO alogorithm
+- 🚢Working on Ship detection and localization in SAR images using YOLO alogorithm
 
-- [Developing a Sheldon Cooper inspired Discord bot using Python ](https://github.com/CodingBad02/SheldonBot)
+- 🚀[Developing a Sheldon Cooper inspired Discord bot using Python ](https://github.com/CodingBad02/SheldonBot)
 
-- [Designing and Hosting a personal portfolio Website using HTML and CSS](https://github.com/CodingBad02/personalsite)
+- 🌐[Designing and Hosting a personal portfolio Website using HTML and CSS](https://github.com/CodingBad02/personalsite)
 
 
 <!-- PROJECT-LIST:END -->
 <br />
 <br />
 
+<details>
+<summary> Click to view my Stats! </summary>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingbad02&show_icons=true&locale=en&layout=compact" alt="codingbad02" /></p>
 
-<br />
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingbad02&show_icons=true&locale=en" alt="codingbad02" /></p>
+
+</details>
+
+### Connect with me:
+
+I'm highly interested in working and learning anywhere I can! If you have the need for a colaborator or a contributor, don't hesitate to DM on my socials!
+
+
+<a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
+
+<a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+
+<br />
 
 [website]: https://manjunathan.me
 [course]: https://www.udemy.com/certificate/UC-b6fe2152-6257-4fc0-9a9f-aa07de5ab76c/
