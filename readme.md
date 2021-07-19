@@ -78,6 +78,9 @@
 
 </details>
 
+![Profile views](https://komarev.com/ghpvc/?username=CodingBad02&style=flat-square)
+
+
 ### Connect with me:
 
 I'm highly interested in working and learning anywhere I can! If you have the need for a colaborator or a contributor, don't hesitate to DM on my socials!
