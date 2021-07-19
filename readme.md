@@ -2,7 +2,11 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmanjunathan.me)](https://manjunathan.me)
 
+<br>
 
+![Views](https://komarev.com/ghpvc/?username=CodingBad02&color=blue&label=profile+views)
+
+<br>
 ## I am a Student, Machine learning enthusiast, Explorer, and Ready to learn and collaborate!!
 
 - 🔭 I just completed a Udemy course on Machine learning! : [Python bootcamp for Machine learning][course]!
@@ -94,7 +98,6 @@ I'm highly interested in working and learning anywhere I can! If you have the ne
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=CodingBad02&style=flat-square)
 
 [website]: https://manjunathan.me
 [course]: https://www.udemy.com/certificate/UC-b6fe2152-6257-4fc0-9a9f-aa07de5ab76c/
