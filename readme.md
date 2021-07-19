@@ -78,7 +78,7 @@
 
 </details>
 
-![Profile views](https://komarev.com/ghpvc/?username=CodingBad02&style=flat-square)
+
 
 
 ### Connect with me:
@@ -93,6 +93,8 @@ I'm highly interested in working and learning anywhere I can! If you have the ne
 <a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
 
 <br />
+
+![Profile views](https://komarev.com/ghpvc/?username=CodingBad02&style=flat-square)
 
 [website]: https://manjunathan.me
 [course]: https://www.udemy.com/certificate/UC-b6fe2152-6257-4fc0-9a9f-aa07de5ab76c/
