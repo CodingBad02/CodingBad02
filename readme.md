@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmanjunathan.me)](https://manjunathan.me)
 
-<br>
-
 ![Views](https://komarev.com/ghpvc/?username=CodingBad02&color=blue&label=profile+views)
 
 <br>
