@@ -62,6 +62,8 @@
 
 - 🚢Working on Ship detection and localization in SAR images using YOLO alogorithm
 
+- 🕒[Stock Volatility alert automation & other automations](https://github.com/CodingBad02/Automation)
+
 - 🚀[Developing a Sheldon Cooper inspired Discord bot using Python ](https://github.com/CodingBad02/SheldonBot)
 
 - 🌐[Designing and Hosting a personal portfolio Website using HTML and CSS](https://github.com/CodingBad02/personalsite)
