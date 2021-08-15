@@ -84,7 +84,6 @@
 
 </details>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 ### Connect with me:
@@ -107,5 +106,4 @@ I'm highly interested in working and learning anywhere I can! If you have the ne
 [instagram]: https://www.instagram.com/mannjjuuuu/?hl=en
 [linkedin]: https://www.linkedin.com/in/manjunathan-r-06396b1b7/
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manjunathan-r-06396b1b7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manjunathan-r-06396b1b7?trk=profile-badge">Manjunathan R</a></div>
 
