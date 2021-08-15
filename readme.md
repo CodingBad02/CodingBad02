@@ -60,7 +60,9 @@
 
 - 🦠Working on modeling Pandemic intensity using pre-pandemic data, using GCNs and Semi-Supervised learning
 
-- 🚢Working on Ship detection and localization in SAR images using YOLO alogorithm
+- 🚢Real-time Ship Detection and Localisation in SAR Images using Artificial Intelligence and Remote Sensing for Maritime Defense applications
+
+- 😃[A Structure for Select-face anonymisation using VGGFace and Similarity matching](https://github.com/CodingBad02/Face-Anonymisation)
 
 - 🕒[Stock Volatility alert automation & other automations](https://github.com/CodingBad02/Automation)
 
@@ -82,7 +84,7 @@
 
 </details>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 ### Connect with me:
@@ -98,8 +100,12 @@ I'm highly interested in working and learning anywhere I can! If you have the ne
 
 <br />
 
+              
 
 [website]: https://manjunathan.me
 [course]: https://www.udemy.com/certificate/UC-b6fe2152-6257-4fc0-9a9f-aa07de5ab76c/
 [instagram]: https://www.instagram.com/mannjjuuuu/?hl=en
 [linkedin]: https://www.linkedin.com/in/manjunathan-r-06396b1b7/
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manjunathan-r-06396b1b7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manjunathan-r-06396b1b7?trk=profile-badge">Manjunathan R</a></div>
+
