@@ -1,75 +1,100 @@
-### Hi there! I'm Manjunathan - Third year Undergraduate Engineeer, [My Wesbsite!][website] 👋
+# 🌟 Hi there! I'm Manjunathan Radhakrishnan 🌟  
+**Machine Learning Engineer| Electronics and Communication Engineering Undergraduate | 2x SIH Winner**  
 
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmanjunathan.me)](https://manjunathan.me)
-
-![Views](https://komarev.com/ghpvc/?username=CodingBad02&color=blue&label=profile+views)
-
-<br>
-## I am a Student, Machine learning enthusiast, Explorer, and Ready to learn and collaborate!!
-
-- 🔭 I just completed a Udemy course on Machine learning! : [Python bootcamp for Machine learning][course]!
-- 🌱 I’m currently learning Deep Neural networks and their applications in Computer vision 🤣
-- 👯 I’m looking to learn from people in the field of Machine learning
-- 🥅 2021 Goals: Involve myself in more projects for the community, try to publish some papers too!
-- ⚡ I also love Fitness and music!
-
-### Vibe w Me! 🎧
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmanjunathan.me)](https://manjunathan.me)  
+![Profile Views](https://komarev.com/ghpvc/?username=CodingBad02&color=blue&label=profile+views)
 
 
-[![Spotify](https://novatorem-codingbad02.vercel.app/api/spotify)](https://open.spotify.com/user/31h52v5cyy2ej5ave6qf4rqncb3a)
+## 🧠 About Me
+
+- **Work Experience** : MLE at Mad Street Den | Ex MLE at Drishti - 2+ years of Machine Learning Product Development Experience. 
+- **Education**: Electronics and Communication Engineering Undergraduate from SSNCE.    
+- **Achievements**: SIH 2022 - Hardware Edition | 2x MADHACK@MSD | AlgorithmX Mentorship Award
+- I like to work at the intersection of advanced hardware and advanced software. Enterprise ready agents need not be just a product. They can be an experience.  
 
 
+---
+## 🚀 Professional Expertise  
 
-### Languages and Tools:
+#### **Machine Learning Engineer** – [Mad Street Den (Vue.ai)](https://vue.ai)  
+- Led restructuring of **Product Tagging and Document Extraction** using fine-tuned multimodal LLMs like Llama and Mistral.  
+- Engineered an **agentic architecture** for Vue-platform, enabling custom workflows via chatbot with RAG.  
+- Built distributed training frameworks and managed **end-to-end ML lifecycle** for Fortune 500 clients like **Nike** and **Philips Van Heusen Corporation**.  
 
-<img align="left" alt="Python dev" width="50px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
+#### **Machine Learning Intern** – [Drishti.com](https://drishti.com)  
+- Developed **action recognition models** by integrating temporal and spatial features with **Boundary Matching techniques (BMN AND BSN)**.  
+- Leveraged **Google Cloud Platform (GCP)** to construct and benchmark **AutoML workflows**.  
+- Orchestrated and optimized workflows with **Kubernetes**, enhancing the Drishti Data Platform’s scalability.  
+ 
 
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+---
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+### 📕 Significant Projects:
 
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!-- PROJECT-LIST:START -->
+- **Pandemic Analysis**: Built semi-supervised **graph convolutional models** to predict state-wise COVID-19 spread. The paper, ["Graph Convolutional Networks for Predicting State-wise Pandemic Incidence in India"](https://doi.org/10.1109/AISP53593.2022.9760527),was presented at AISP 22, and consequently published on IEEE Xplore. 
 
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- **Traffic Flow Simulation using Cellular Automata**: Modeled **traffic responses** using computer vision and cellular automata rules.  
 
-<img align="left" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+- Real-time Ship Detection and Localisation in SAR Images using Artificial Intelligence and Remote Sensing for Maritime Defense applications, presented at IETE 5th National Industry Innovators meet, Delhi HQ.
 
-<img align="left" alt="MATLAB" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+- [A Structure for Select-face anonymisation using VGGFace and Similarity matching](https://github.com/CodingBad02/Face-Anonymisation)
 
-<img align="left" alt="Tensorflow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+---
+### Tech Stack:
 
-<img align="left" alt="OpenCV" width="50px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
+#### **Programming Languages**  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+  <img alt="Go" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img alt="Verilog" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYr0g9NHCLWxOl5i2sbGWNCc0TbStE7zRdQ&s" />
+  <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</div>
 
-<img align="left" alt="SciKit Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<br /><br />
 
+#### **Machine Learning Frameworks**  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img alt="PyTorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+  <img alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+  <img alt="SciKit Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img alt="OpenCV" width="50px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
+  <img alt="ONNX" width="50px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*B2T8bycSeIhPFooIwGf8fw.png" />
+</div>
 
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br /><br />
 
+#### **Cloud & DevOps Tools**  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img alt="AWS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Google Cloud" width="50px" src="https://static.wikia.nocookie.net/google/images/4/4e/Googlecloudlogo-580x358.png/revision/latest/thumbnail/width/360/height/360?cb=20180928180815" />
+  <img alt="Azure" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img alt="Kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
+  <img alt="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+  <img alt="Grafana" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />
+</div>
+
+<br /><br />
+
+#### **Database & Data Management**  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
+  <img alt="Neo4j" width="50px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" />
+  <img alt="DynamoDB" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
+  <img alt="Elasticsearch" width="50px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+</div>
+
+<br /><br />
+
+#### General Skill Development
 <a href="https://www.hackerrank.com/manjunathan19057" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunathan19057"  width="50px" /></a>
 
 
 <br />
 <br />
-
----
-
-### 📕 Personal and Ongoing Projects:
-
-<!-- PROJECT-LIST:START -->
-- 🚗Traffic flow and sign recognition modeling using Graph Cellular Automata theory
-
-- 🦠Working on modeling Pandemic intensity using pre-pandemic data, using GCNs and Semi-Supervised learning
-
-- 🚢Real-time Ship Detection and Localisation in SAR Images using Artificial Intelligence and Remote Sensing for Maritime Defense applications
-
-- 😃[A Structure for Select-face anonymisation using VGGFace and Similarity matching](https://github.com/CodingBad02/Face-Anonymisation)
-
-- 🕒[Stock Volatility alert automation & other automations](https://github.com/CodingBad02/Automation)
-
-- 🚀[Developing a Sheldon Cooper inspired Discord bot using Python ](https://github.com/CodingBad02/SheldonBot)
-
-- 🌐[Designing and Hosting a personal portfolio Website using HTML and CSS](https://github.com/CodingBad02/personalsite)
-
 
 <!-- PROJECT-LIST:END -->
 <br />
@@ -88,14 +113,15 @@
 
 ### Connect with me:
 
-I'm highly interested in working and learning anywhere I can! If you have the need for a colaborator or a contributor, don't hesitate to DM on my socials!
+If you are interested in the things I do or discuss potential usecases to solution for over a beer or debate over endless Kollywood references - don't hesitate to contact me on my socials!
+
 
 
 <a href="https://www.instagram.com/mannjjuuuu/?hl=en" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/manjunathan-r-06396b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram: Linkedin:Manjunathan" height="30" width="40" /></a>
 
-<a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Instagram: mannjjuuuu" height="30" width="40" /></a>
+<a href="https://manjunathan.me" target="blank"><img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="manjunathan.me" height="30" width="40" /></a>
 
 <br />
 
